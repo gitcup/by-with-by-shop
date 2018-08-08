@@ -1,0 +1,31 @@
+
+#product-grid {border-top: #F08426 2px solid;margin-bottom:30px;}
+#product-grid .txt-heading{background-color: #FFD0A6;}
+.product-item {	float:left;	background:#F0F0F0;	margin:15px;	padding:5px;}
+.product-item div{text-align:center;	margin:10px;}
+.product-price {color:#F08426;}
+.product-image {height:100px;background-color:#FFF;}
+
+.productbox {
+    background-color:#ffffff;
+	padding:10px;
+	margin-bottom:10px;
+	-webkit-box-shadow: 0 8px 6px -6px  #999;
+	   -moz-box-shadow: 0 8px 6px -6px  #999;
+	        box-shadow: 0 8px 6px -6px #999;
+}
+
+.producttitle {
+    font-weight:bold;
+	padding:5px 0 5px 0;
+}
+
+.productprice {
+	border-top:1px solid #dadada;
+	padding-top:5px;
+}
+
+.pricetext {
+	font-weight:bold;
+	font-size:1.4em;
+}
